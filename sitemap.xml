@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/github/</loc>
+    <loc>https://tobethetree.github.io/posts/github/</loc>
     <lastmod>2025-05-08T20:58:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://tobethetree.github.io/posts/</loc>
     <lastmod>2025-05-08T20:58:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://tobethetree.github.io/</loc>
     <lastmod>2025-05-08T20:58:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/hello_world/</loc>
+    <loc>https://tobethetree.github.io/posts/hello_world/</loc>
     <lastmod>2025-05-08T01:35:32+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://tobethetree.github.io/posts/my-first-post/</loc>
     <lastmod>2025-05-08T01:08:46+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://tobethetree.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://tobethetree.github.io/tags/</loc>
   </url>
 </urlset>
