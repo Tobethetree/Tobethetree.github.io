@@ -13,7 +13,7 @@
       <link>https://example.org/posts/github/</link>
       <pubDate>Thu, 08 May 2025 20:58:14 +0800</pubDate>
       <guid>https://example.org/posts/github/</guid>
-      <description>&lt;h3 id=&#34;github&#34;&gt;GitHub&lt;/h3&gt;&#xA;&lt;p&gt;GitHub是为开发者提供Git仓库的托管服务。这是一个让开发者与朋友、同事、同学及陌生人共享代码的完美场所。&lt;/p&gt;</description>
+      <description>&lt;p&gt;GitHub是为开发者提供Git仓库的托管服务。这是一个让开发者与朋友、同事、同学及陌生人共享代码的完美场所。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello_world</title>
